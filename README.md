@@ -8,7 +8,7 @@
 # Мои Контакты:
 
  - Почта: cheerio@mail.com
- - Telegram:(https://t.me/johnsfil)
+ - Telegram:https://t.me/johnsfil
 
 Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
 
